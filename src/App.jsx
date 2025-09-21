@@ -1,4 +1,3 @@
-// ...existing code...
 import React from 'react';
 import { AuthProvider } from './AuthContext';
 import AppRoutes from './routes';
